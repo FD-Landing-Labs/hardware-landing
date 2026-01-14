@@ -158,6 +158,16 @@ export interface SecondaryOffer {
   href: string;
 }
 
+export interface OfferBanner {
+  id: string;
+  label: string;
+  headline: string;
+  highlight: string;
+  image: string;
+  href: string;
+  theme: "dark" | "red";
+}
+
 export interface OffersConfig {
   sectionLabel: string;
   sectionNumber: string;
@@ -165,12 +175,25 @@ export interface OffersConfig {
   description: string;
   mainOffer: MainOffer;
   secondaryOffers: SecondaryOffer[];
+  banners: OfferBanner[];
 }
 
 // About Types
 export interface AboutStat {
   value: string;
   label: string;
+}
+
+export interface AboutValue {
+  id: string;
+  title: string;
+}
+
+export interface AboutTestimonial {
+  quote: string;
+  author: string;
+  role: string;
+  rating: number;
 }
 
 export interface AboutConfig {
@@ -181,6 +204,8 @@ export interface AboutConfig {
   image: string;
   highlights: string[];
   stats: AboutStat[];
+  values: AboutValue[];
+  featuredTestimonial: AboutTestimonial;
 }
 
 // Brand Logos Types
@@ -193,6 +218,8 @@ export interface BrandItem {
 export interface BrandLogosConfig {
   sectionLabel: string;
   headline: string;
+  subheadline: string;
+  description: string;
   items: BrandItem[];
 }
 
@@ -216,6 +243,7 @@ export interface TestimonialsConfig {
   sectionLabel: string;
   sectionNumber: string;
   headline: string;
+  badge: string;
   overallRating: string;
   ratingCategories: RatingCategory[];
   items: TestimonialItem[];
@@ -249,6 +277,11 @@ export interface FooterContact {
   address: string;
 }
 
+export interface FooterOffice {
+  label: string;
+  lines: string[];
+}
+
 export interface FooterHours {
   weekdays: string;
   saturday: string;
@@ -263,10 +296,14 @@ export interface FooterLinkGroup {
 export interface FooterConfig {
   brand: FooterBrand;
   headline: string;
+  taglineSmall: string;
   description: string;
   cta: CTAButton;
   contact: FooterContact;
+  office: FooterOffice;
   hours: FooterHours;
+  location: string;
+  quickLinks: NavLink[];
   linkGroups: FooterLinkGroup[];
   socialLinks: SocialLink[];
   bottomLinks: NavLink[];

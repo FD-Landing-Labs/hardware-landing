@@ -1,15 +1,15 @@
 {
   "site": {
-    "name": "BuildRight Hardware",
+    "name": "Elite Hardware",
     "tagline": "Your Complete Hardware Solution",
     "description": "Quality hardware supplies, tools, paint, electrical, and plumbing essentials for professionals and DIY enthusiasts.",
     "logo": {
-      "default": "https://placehold.co/120x40/1a1a1a/ffffff?text=BuildRight",
-      "white": "https://placehold.co/120x40/ffffff/1a1a1a?text=BuildRight",
-      "alt": "BuildRight Hardware Logo"
+      "default": "https://placehold.co/120x40/1a1a1a/ffffff?text=Elite",
+      "white": "https://placehold.co/120x40/ffffff/1a1a1a?text=Elite",
+      "alt": "Elite Hardware Logo"
     },
     "seo": {
-      "title": "BuildRight Hardware - Quality Tools & Supplies",
+      "title": "Elite Hardware - Quality Tools & Supplies",
       "description": "Shop premium hardware, tools, paint, electrical supplies, plumbing essentials, nuts & bolts, and metal products. Professional quality for every project.",
       "keywords": [
         "hardware store",
@@ -21,11 +21,11 @@
         "metal bars",
         "DIY hardware"
       ],
-      "ogImage": "https://placehold.co/1200x630/f89108/ffffff?text=BuildRight+Hardware"
+      "ogImage": "https://placehold.co/1200x630/f89108/ffffff?text=Elite+Hardware"
     }
   },
   "navbar": {
-    "brandName": "BuildRight",
+    "brandName": "Elite",
     "mainLinks": [
       {
         "id": "new-featured",
@@ -36,46 +36,121 @@
             {
               "title": "Featured",
               "links": [
-                { "name": "New Arrivals", "href": "#" },
-                { "name": "Best Sellers", "href": "#" },
-                { "name": "Weekly Deals", "href": "#" },
-                { "name": "Clearance Sale", "href": "#" },
-                { "name": "Pro Member Exclusives", "href": "#" },
-                { "name": "Gift Ideas", "href": "#" },
-                { "name": "Starter Kits", "href": "#" }
+                {
+                  "name": "New Arrivals",
+                  "href": "#"
+                },
+                {
+                  "name": "Best Sellers",
+                  "href": "#"
+                },
+                {
+                  "name": "Weekly Deals",
+                  "href": "#"
+                },
+                {
+                  "name": "Clearance Sale",
+                  "href": "#"
+                },
+                {
+                  "name": "Pro Member Exclusives",
+                  "href": "#"
+                },
+                {
+                  "name": "Gift Ideas",
+                  "href": "#"
+                },
+                {
+                  "name": "Starter Kits",
+                  "href": "#"
+                }
               ]
             },
             {
               "title": "Trending",
               "links": [
-                { "name": "Cordless Power Tools", "href": "#" },
-                { "name": "Smart Home Devices", "href": "#" },
-                { "name": "Eco-Friendly Paint", "href": "#" },
-                { "name": "LED Lighting", "href": "#" },
-                { "name": "Tool Storage Solutions", "href": "#" },
-                { "name": "Safety Equipment", "href": "#" }
+                {
+                  "name": "Cordless Power Tools",
+                  "href": "#"
+                },
+                {
+                  "name": "Smart Home Devices",
+                  "href": "#"
+                },
+                {
+                  "name": "Eco-Friendly Paint",
+                  "href": "#"
+                },
+                {
+                  "name": "LED Lighting",
+                  "href": "#"
+                },
+                {
+                  "name": "Tool Storage Solutions",
+                  "href": "#"
+                },
+                {
+                  "name": "Safety Equipment",
+                  "href": "#"
+                }
               ]
             },
             {
               "title": "Shop By Brand",
               "links": [
-                { "name": "DeWalt", "href": "#" },
-                { "name": "Milwaukee", "href": "#" },
-                { "name": "Makita", "href": "#" },
-                { "name": "Bosch", "href": "#" },
-                { "name": "Stanley", "href": "#" },
-                { "name": "3M", "href": "#" }
+                {
+                  "name": "DeWalt",
+                  "href": "#"
+                },
+                {
+                  "name": "Milwaukee",
+                  "href": "#"
+                },
+                {
+                  "name": "Makita",
+                  "href": "#"
+                },
+                {
+                  "name": "Bosch",
+                  "href": "#"
+                },
+                {
+                  "name": "Stanley",
+                  "href": "#"
+                },
+                {
+                  "name": "3M",
+                  "href": "#"
+                }
               ]
             },
             {
               "title": "Shop By Project",
               "links": [
-                { "name": "Home Renovation", "href": "#" },
-                { "name": "Kitchen Remodel", "href": "#" },
-                { "name": "Bathroom Update", "href": "#" },
-                { "name": "Outdoor Projects", "href": "#" },
-                { "name": "Workshop Setup", "href": "#" },
-                { "name": "DIY Furniture", "href": "#" }
+                {
+                  "name": "Home Renovation",
+                  "href": "#"
+                },
+                {
+                  "name": "Kitchen Remodel",
+                  "href": "#"
+                },
+                {
+                  "name": "Bathroom Update",
+                  "href": "#"
+                },
+                {
+                  "name": "Outdoor Projects",
+                  "href": "#"
+                },
+                {
+                  "name": "Workshop Setup",
+                  "href": "#"
+                },
+                {
+                  "name": "DIY Furniture",
+                  "href": "#"
+                }
               ]
             }
           ]
@@ -90,43 +165,109 @@
             {
               "title": "Power Tools",
               "links": [
-                { "name": "Drills & Drivers", "href": "#" },
-                { "name": "Saws", "href": "#" },
-                { "name": "Sanders", "href": "#" },
-                { "name": "Grinders", "href": "#" },
-                { "name": "Rotary Tools", "href": "#" },
-                { "name": "Nail Guns", "href": "#" }
+                {
+                  "name": "Drills & Drivers",
+                  "href": "#"
+                },
+                {
+                  "name": "Saws",
+                  "href": "#"
+                },
+                {
+                  "name": "Sanders",
+                  "href": "#"
+                },
+                {
+                  "name": "Grinders",
+                  "href": "#"
+                },
+                {
+                  "name": "Rotary Tools",
+                  "href": "#"
+                },
+                {
+                  "name": "Nail Guns",
+                  "href": "#"
+                }
               ]
             },
             {
               "title": "Hand Tools",
               "links": [
-                { "name": "Hammers", "href": "#" },
-                { "name": "Screwdrivers", "href": "#" },
-                { "name": "Wrenches", "href": "#" },
-                { "name": "Pliers", "href": "#" },
-                { "name": "Measuring Tools", "href": "#" },
-                { "name": "Cutting Tools", "href": "#" }
+                {
+                  "name": "Hammers",
+                  "href": "#"
+                },
+                {
+                  "name": "Screwdrivers",
+                  "href": "#"
+                },
+                {
+                  "name": "Wrenches",
+                  "href": "#"
+                },
+                {
+                  "name": "Pliers",
+                  "href": "#"
+                },
+                {
+                  "name": "Measuring Tools",
+                  "href": "#"
+                },
+                {
+                  "name": "Cutting Tools",
+                  "href": "#"
+                }
               ]
             },
             {
               "title": "Tool Sets",
               "links": [
-                { "name": "Complete Tool Kits", "href": "#" },
-                { "name": "Socket Sets", "href": "#" },
-                { "name": "Screwdriver Sets", "href": "#" },
-                { "name": "Wrench Sets", "href": "#" },
-                { "name": "Specialty Sets", "href": "#" }
+                {
+                  "name": "Complete Tool Kits",
+                  "href": "#"
+                },
+                {
+                  "name": "Socket Sets",
+                  "href": "#"
+                },
+                {
+                  "name": "Screwdriver Sets",
+                  "href": "#"
+                },
+                {
+                  "name": "Wrench Sets",
+                  "href": "#"
+                },
+                {
+                  "name": "Specialty Sets",
+                  "href": "#"
+                }
               ]
             },
             {
               "title": "Tool Storage",
               "links": [
-                { "name": "Tool Boxes", "href": "#" },
-                { "name": "Tool Bags", "href": "#" },
-                { "name": "Workbenches", "href": "#" },
-                { "name": "Cabinets", "href": "#" },
-                { "name": "Organizers", "href": "#" }
+                {
+                  "name": "Tool Boxes",
+                  "href": "#"
+                },
+                {
+                  "name": "Tool Bags",
+                  "href": "#"
+                },
+                {
+                  "name": "Workbenches",
+                  "href": "#"
+                },
+                {
+                  "name": "Cabinets",
+                  "href": "#"
+                },
+                {
+                  "name": "Organizers",
+                  "href": "#"
+                }
               ]
             }
           ]
@@ -141,41 +282,101 @@
             {
               "title": "Wiring",
               "links": [
-                { "name": "Electrical Wire", "href": "#" },
-                { "name": "Cable & Conduit", "href": "#" },
-                { "name": "Wire Connectors", "href": "#" },
-                { "name": "Junction Boxes", "href": "#" },
-                { "name": "Wire Management", "href": "#" }
+                {
+                  "name": "Electrical Wire",
+                  "href": "#"
+                },
+                {
+                  "name": "Cable & Conduit",
+                  "href": "#"
+                },
+                {
+                  "name": "Wire Connectors",
+                  "href": "#"
+                },
+                {
+                  "name": "Junction Boxes",
+                  "href": "#"
+                },
+                {
+                  "name": "Wire Management",
+                  "href": "#"
+                }
               ]
             },
             {
               "title": "Switches & Outlets",
               "links": [
-                { "name": "Light Switches", "href": "#" },
-                { "name": "Outlets", "href": "#" },
-                { "name": "Dimmers", "href": "#" },
-                { "name": "Smart Switches", "href": "#" },
-                { "name": "Cover Plates", "href": "#" }
+                {
+                  "name": "Light Switches",
+                  "href": "#"
+                },
+                {
+                  "name": "Outlets",
+                  "href": "#"
+                },
+                {
+                  "name": "Dimmers",
+                  "href": "#"
+                },
+                {
+                  "name": "Smart Switches",
+                  "href": "#"
+                },
+                {
+                  "name": "Cover Plates",
+                  "href": "#"
+                }
               ]
             },
             {
               "title": "Lighting",
               "links": [
-                { "name": "LED Bulbs", "href": "#" },
-                { "name": "Work Lights", "href": "#" },
-                { "name": "Ceiling Fixtures", "href": "#" },
-                { "name": "Outdoor Lighting", "href": "#" },
-                { "name": "Emergency Lights", "href": "#" }
+                {
+                  "name": "LED Bulbs",
+                  "href": "#"
+                },
+                {
+                  "name": "Work Lights",
+                  "href": "#"
+                },
+                {
+                  "name": "Ceiling Fixtures",
+                  "href": "#"
+                },
+                {
+                  "name": "Outdoor Lighting",
+                  "href": "#"
+                },
+                {
+                  "name": "Emergency Lights",
+                  "href": "#"
+                }
               ]
             },
             {
               "title": "Safety",
               "links": [
-                { "name": "Circuit Breakers", "href": "#" },
-                { "name": "Fuses", "href": "#" },
-                { "name": "Surge Protectors", "href": "#" },
-                { "name": "GFCI Outlets", "href": "#" },
-                { "name": "Testers", "href": "#" }
+                {
+                  "name": "Circuit Breakers",
+                  "href": "#"
+                },
+                {
+                  "name": "Fuses",
+                  "href": "#"
+                },
+                {
+                  "name": "Surge Protectors",
+                  "href": "#"
+                },
+                {
+                  "name": "GFCI Outlets",
+                  "href": "#"
+                },
+                {
+                  "name": "Testers",
+                  "href": "#"
+                }
               ]
             }
           ]
@@ -190,40 +391,97 @@
             {
               "title": "Pipes & Fittings",
               "links": [
-                { "name": "PVC Pipes", "href": "#" },
-                { "name": "Copper Pipes", "href": "#" },
-                { "name": "Pipe Fittings", "href": "#" },
-                { "name": "Valves", "href": "#" },
-                { "name": "Connectors", "href": "#" }
+                {
+                  "name": "PVC Pipes",
+                  "href": "#"
+                },
+                {
+                  "name": "Copper Pipes",
+                  "href": "#"
+                },
+                {
+                  "name": "Pipe Fittings",
+                  "href": "#"
+                },
+                {
+                  "name": "Valves",
+                  "href": "#"
+                },
+                {
+                  "name": "Connectors",
+                  "href": "#"
+                }
               ]
             },
             {
               "title": "Fixtures",
               "links": [
-                { "name": "Faucets", "href": "#" },
-                { "name": "Sinks", "href": "#" },
-                { "name": "Toilets", "href": "#" },
-                { "name": "Showers", "href": "#" },
-                { "name": "Bathtubs", "href": "#" }
+                {
+                  "name": "Faucets",
+                  "href": "#"
+                },
+                {
+                  "name": "Sinks",
+                  "href": "#"
+                },
+                {
+                  "name": "Toilets",
+                  "href": "#"
+                },
+                {
+                  "name": "Showers",
+                  "href": "#"
+                },
+                {
+                  "name": "Bathtubs",
+                  "href": "#"
+                }
               ]
             },
             {
               "title": "Water Heaters",
               "links": [
-                { "name": "Tank Heaters", "href": "#" },
-                { "name": "Tankless Heaters", "href": "#" },
-                { "name": "Parts & Accessories", "href": "#" },
-                { "name": "Installation Kits", "href": "#" }
+                {
+                  "name": "Tank Heaters",
+                  "href": "#"
+                },
+                {
+                  "name": "Tankless Heaters",
+                  "href": "#"
+                },
+                {
+                  "name": "Parts & Accessories",
+                  "href": "#"
+                },
+                {
+                  "name": "Installation Kits",
+                  "href": "#"
+                }
               ]
             },
             {
               "title": "Repair",
               "links": [
-                { "name": "Plungers", "href": "#" },
-                { "name": "Drain Cleaners", "href": "#" },
-                { "name": "Repair Kits", "href": "#" },
-                { "name": "Tape & Sealant", "href": "#" },
-                { "name": "Plumbing Tools", "href": "#" }
+                {
+                  "name": "Plungers",
+                  "href": "#"
+                },
+                {
+                  "name": "Drain Cleaners",
+                  "href": "#"
+                },
+                {
+                  "name": "Repair Kits",
+                  "href": "#"
+                },
+                {
+                  "name": "Tape & Sealant",
+                  "href": "#"
+                },
+                {
+                  "name": "Plumbing Tools",
+                  "href": "#"
+                }
               ]
             }
           ]
@@ -238,41 +496,101 @@
             {
               "title": "Interior Paint",
               "links": [
-                { "name": "Wall Paint", "href": "#" },
-                { "name": "Ceiling Paint", "href": "#" },
-                { "name": "Trim Paint", "href": "#" },
-                { "name": "Primers", "href": "#" },
-                { "name": "Specialty Paints", "href": "#" }
+                {
+                  "name": "Wall Paint",
+                  "href": "#"
+                },
+                {
+                  "name": "Ceiling Paint",
+                  "href": "#"
+                },
+                {
+                  "name": "Trim Paint",
+                  "href": "#"
+                },
+                {
+                  "name": "Primers",
+                  "href": "#"
+                },
+                {
+                  "name": "Specialty Paints",
+                  "href": "#"
+                }
               ]
             },
             {
               "title": "Exterior Paint",
               "links": [
-                { "name": "House Paint", "href": "#" },
-                { "name": "Deck Stain", "href": "#" },
-                { "name": "Concrete Paint", "href": "#" },
-                { "name": "Metal Paint", "href": "#" },
-                { "name": "Wood Stain", "href": "#" }
+                {
+                  "name": "House Paint",
+                  "href": "#"
+                },
+                {
+                  "name": "Deck Stain",
+                  "href": "#"
+                },
+                {
+                  "name": "Concrete Paint",
+                  "href": "#"
+                },
+                {
+                  "name": "Metal Paint",
+                  "href": "#"
+                },
+                {
+                  "name": "Wood Stain",
+                  "href": "#"
+                }
               ]
             },
             {
               "title": "Supplies",
               "links": [
-                { "name": "Brushes", "href": "#" },
-                { "name": "Rollers", "href": "#" },
-                { "name": "Sprayers", "href": "#" },
-                { "name": "Drop Cloths", "href": "#" },
-                { "name": "Tape", "href": "#" }
+                {
+                  "name": "Brushes",
+                  "href": "#"
+                },
+                {
+                  "name": "Rollers",
+                  "href": "#"
+                },
+                {
+                  "name": "Sprayers",
+                  "href": "#"
+                },
+                {
+                  "name": "Drop Cloths",
+                  "href": "#"
+                },
+                {
+                  "name": "Tape",
+                  "href": "#"
+                }
               ]
             },
             {
               "title": "Finishes",
               "links": [
-                { "name": "Matte", "href": "#" },
-                { "name": "Satin", "href": "#" },
-                { "name": "Semi-Gloss", "href": "#" },
-                { "name": "Gloss", "href": "#" },
-                { "name": "Eggshell", "href": "#" }
+                {
+                  "name": "Matte",
+                  "href": "#"
+                },
+                {
+                  "name": "Satin",
+                  "href": "#"
+                },
+                {
+                  "name": "Semi-Gloss",
+                  "href": "#"
+                },
+                {
+                  "name": "Gloss",
+                  "href": "#"
+                },
+                {
+                  "name": "Eggshell",
+                  "href": "#"
+                }
               ]
             }
           ]
@@ -285,7 +603,7 @@
       }
     ],
     "contact": {
-      "email": "info@buildright.com",
+      "email": "info@Elite.com",
       "phone": "(555) 123-4567"
     },
     "socialLinks": [
@@ -320,7 +638,7 @@
     "images": [
       {
         "id": "hero-1",
-        "src": "https://picsum.photos/seed/drill/300/400",
+        "src": "/assets/images/hero.jpg",
         "alt": "Professional Power Drill",
         "bgColor": "#f97316"
       },
@@ -371,7 +689,7 @@
         "id": "cat-1",
         "name": "Power Tools",
         "description": "Drills, saws, sanders & more",
-        "image": "https://placehold.co/400x300/f89108/ffffff?text=Power+Tools",
+        "image": "/assets/images/category/power-tools.jpg",
         "icon": "drill",
         "productCount": "500+"
       },
@@ -379,7 +697,7 @@
         "id": "cat-2",
         "name": "Paint & Finishes",
         "description": "Interior, exterior & specialty paints",
-        "image": "https://placehold.co/400x300/db6b04/ffffff?text=Paint",
+        "image": "/assets/images/category/paint.png",
         "icon": "paintbrush",
         "productCount": "800+"
       },
@@ -387,7 +705,7 @@
         "id": "cat-3",
         "name": "Nuts & Bolts",
         "description": "Fasteners, screws & fixings",
-        "image": "https://placehold.co/400x300/b64907/ffffff?text=Fasteners",
+        "image": "/assets/images/category/nut.png",
         "icon": "wrench",
         "productCount": "2000+"
       },
@@ -395,7 +713,7 @@
         "id": "cat-4",
         "name": "Metal Bars",
         "description": "Steel, aluminum & iron bars",
-        "image": "https://placehold.co/400x300/94380c/ffffff?text=Metal+Bars",
+        "image": "/assets/images/category/bars.png",
         "icon": "ruler",
         "productCount": "300+"
       },
@@ -403,7 +721,7 @@
         "id": "cat-5",
         "name": "Electrical",
         "description": "Wiring, switches & fixtures",
-        "image": "https://placehold.co/400x300/792f0e/ffffff?text=Electrical",
+        "image": "/assets/images/category/electric.png",
         "icon": "zap",
         "productCount": "1200+"
       },
@@ -411,7 +729,7 @@
         "id": "cat-6",
         "name": "Plumbing",
         "description": "Pipes, fittings & fixtures",
-        "image": "https://placehold.co/400x300/461602/ffffff?text=Plumbing",
+        "image": "/assets/images/category/plumb.png",
         "icon": "droplet",
         "productCount": "900+"
       },
@@ -419,7 +737,7 @@
         "id": "cat-7",
         "name": "Hand Tools",
         "description": "Hammers, screwdrivers & wrenches",
-        "image": "https://placehold.co/400x300/374151/ffffff?text=Hand+Tools",
+        "image": "/assets/images/category/hand.png",
         "icon": "hammer",
         "productCount": "1500+"
       },
@@ -427,7 +745,7 @@
         "id": "cat-8",
         "name": "Safety Gear",
         "description": "Protective equipment & workwear",
-        "image": "https://placehold.co/400x300/059669/ffffff?text=Safety",
+        "image": "/assets/images/category/safe.png",
         "icon": "shield",
         "productCount": "400+"
       },
@@ -435,15 +753,15 @@
         "id": "cat-9",
         "name": "Building Materials",
         "description": "Lumber, drywall & cement",
-        "image": "https://placehold.co/400x300/7c3aed/ffffff?text=Building",
+        "image": "/assets/images/category/build.png",
         "icon": "layers",
         "productCount": "650+"
       },
       {
         "id": "cat-10",
-        "name": "Garden & Outdoor",
+        "name": "Garden",
         "description": "Landscaping tools & supplies",
-        "image": "https://placehold.co/400x300/16a34a/ffffff?text=Garden",
+        "image": "/assets/images/category/garden.png",
         "icon": "flower",
         "productCount": "350+"
       }
@@ -466,7 +784,7 @@
         "price": "$149.99",
         "originalPrice": "$179.99",
         "discount": "17% OFF",
-        "image": "https://placehold.co/400x400/1a1a1a/f89108?text=Drill",
+        "image": "/assets/images/products/drill.png",
         "rating": "4.9",
         "reviews": "234",
         "badge": "Best Seller",
@@ -474,12 +792,12 @@
       },
       {
         "id": "prod-2",
-        "name": "Premium Interior Paint - 5L",
-        "description": "Low VOC, excellent coverage, washable finish",
+        "name": "Water Heater - 500W",
+        "description": "Long-lasting, energy-efficient water heater",
         "price": "$45.99",
         "originalPrice": null,
         "discount": null,
-        "image": "https://placehold.co/400x400/1a1a1a/f89108?text=Paint",
+        "image": "/assets/images/products/heater.png",
         "rating": "4.7",
         "reviews": "156",
         "badge": null,
@@ -487,12 +805,12 @@
       },
       {
         "id": "prod-3",
-        "name": "Stainless Steel Bolt Set - 500pc",
-        "description": "Assorted sizes, rust-resistant, heavy duty",
+        "name": "Nail Gun",
+        "description": "High-performance pneumatic nail gun for framing",
         "price": "$34.99",
         "originalPrice": "$44.99",
         "discount": "22% OFF",
-        "image": "https://placehold.co/400x400/1a1a1a/f89108?text=Bolts",
+        "image": "/assets/images/products/nail.png",
         "rating": "4.8",
         "reviews": "89",
         "badge": "Value Pack",
@@ -505,7 +823,7 @@
         "price": "$28.99",
         "originalPrice": null,
         "discount": null,
-        "image": "https://placehold.co/400x400/1a1a1a/f89108?text=Pipe",
+        "image": "/assets/images/products/40.png",
         "rating": "4.6",
         "reviews": "67",
         "badge": null,
@@ -518,7 +836,7 @@
         "price": "$59.99",
         "originalPrice": "$79.99",
         "discount": "25% OFF",
-        "image": "https://placehold.co/400x400/1a1a1a/f89108?text=Light",
+        "image": "/assets/images/products/led.png",
         "rating": "4.9",
         "reviews": "312",
         "badge": "Hot Deal",
@@ -531,7 +849,7 @@
         "price": "$199.99",
         "originalPrice": "$249.99",
         "discount": "20% OFF",
-        "image": "https://placehold.co/400x400/1a1a1a/f89108?text=Tool+Set",
+        "image": "/assets/images/products/prof-tool.png",
         "rating": "4.8",
         "reviews": "198",
         "badge": "Top Rated",
@@ -548,7 +866,7 @@
       "title": "Spring Sale",
       "subtitle": "Up to 40% Off Power Tools",
       "description": "Get ready for your spring projects with massive savings on top brands.",
-      "image": "https://placehold.co/800x500/f89108/1a1a1a?text=Spring+Sale",
+      "image": "/assets/images/sp.jpg",
       "cta": {
         "label": "Shop Sale",
         "href": "#"
@@ -560,24 +878,44 @@
       {
         "id": "offer-1",
         "title": "Buy 2 Get 1 Free",
-        "subtitle": "On All Paint Brushes",
-        "image": "https://placehold.co/400x300/db6b04/ffffff?text=Paint+Deal",
+        "subtitle": "On All Paint",
+        "image": "/assets/images/paint3.jpg",
         "href": "#"
       },
       {
         "id": "offer-2",
         "title": "Free Delivery",
         "subtitle": "On Orders Over $50",
-        "image": "https://placehold.co/400x300/b64907/ffffff?text=Free+Delivery",
+        "image": "/assets/images/delivery.jpg",
         "href": "#"
+      }
+    ],
+    "banners": [
+      {
+        "id": "mega-sale",
+        "label": "MEGA SALE",
+        "headline": "Save up to",
+        "highlight": "70% now",
+        "image": "/assets/images/save.jpg",
+        "href": "#",
+        "theme": "dark"
+      },
+      {
+        "id": "discount-sale",
+        "label": "SALE",
+        "headline": "Discounts:",
+        "highlight": "50% Off",
+        "image": "/assets/images/discount.jpg",
+        "href": "#",
+        "theme": "red"
       }
     ]
   },
   "about": {
     "sectionLabel": "About Us",
     "sectionNumber": "04",
-    "headline": "Your Trusted Hardware Partner Since 1985",
-    "description": "For nearly four decades, BuildRight Hardware has been the go-to destination for quality tools, supplies, and expert advice. Whether you're a professional contractor or a DIY enthusiast, we're here to help you build better.",
+    "headline": "Why us",
+    "description": "We source and supply quality hardware products that not only meet professional standards but also deliver lasting value for every project you undertake.",
     "image": "https://placehold.co/600x500/1a1a1a/f89108?text=About+Us",
     "highlights": [
       "Family-owned business with 40 years of experience",
@@ -585,75 +923,118 @@
       "Competitive prices with price match guarantee",
       "Same-day delivery available for local orders"
     ],
+    "values": [
+      {
+        "id": "experience",
+        "title": "Experience"
+      },
+      {
+        "id": "consistency",
+        "title": "Consistency"
+      },
+      {
+        "id": "quality",
+        "title": "Quality"
+      },
+      {
+        "id": "dedication",
+        "title": "Dedication"
+      }
+    ],
+    "featuredTestimonial": {
+      "quote": "We asked Elite to redesign our workshop setup and the transformation was incredible. Best investment we ever made!",
+      "author": "James Rodriguez",
+      "role": "Workshop Owner",
+      "rating": 5
+    },
     "stats": [
       {
-        "value": "40+",
-        "label": "Years in Business"
+        "value": "105+",
+        "label": "Completed projects for growing businesses"
       },
       {
-        "value": "10,000+",
-        "label": "Products"
+        "value": "92%",
+        "label": "Client retention rate over the past 3 years"
       },
       {
-        "value": "50,000+",
-        "label": "Happy Customers"
-      },
-      {
-        "value": "98%",
-        "label": "Satisfaction Rate"
+        "value": "1M+",
+        "label": "Products delivered through our supply chain"
       }
     ]
   },
   "brandLogos": {
-    "sectionLabel": "Trusted Brands",
-    "headline": "We Stock The Brands You Trust",
+    "sectionLabel": "Partners",
+    "headline": "Who we work with",
+    "subheadline": "Who We Serve",
+    "description": "From professional contractors to DIY enthusiasts, we are committed to building a community of trust. We assist businesses that have anywhere from 10 to 2,000 employees, across all markets. Our experience has spanned a variety of industries, including construction, manufacturing, and home improvement.",
     "items": [
       {
         "id": "brand-1",
         "name": "DeWalt",
-        "logo": "https://placehold.co/150x60/ffffff/1a1a1a?text=DeWalt"
+        "logo": "/assets/images/brands/dewalt.png"
       },
       {
         "id": "brand-2",
         "name": "Milwaukee",
-        "logo": "https://placehold.co/150x60/ffffff/1a1a1a?text=Milwaukee"
+        "logo": "/assets/images/brands/miluwakee.png"
       },
       {
         "id": "brand-3",
         "name": "Makita",
-        "logo": "https://placehold.co/150x60/ffffff/1a1a1a?text=Makita"
+        "logo": "/assets/images/brands/makita.png"
       },
       {
         "id": "brand-4",
         "name": "Bosch",
-        "logo": "https://placehold.co/150x60/ffffff/1a1a1a?text=Bosch"
+        "logo": "/assets/images/brands/bosch.png"
       },
       {
         "id": "brand-5",
         "name": "Stanley",
-        "logo": "https://placehold.co/150x60/ffffff/1a1a1a?text=Stanley"
+        "logo": "/assets/images/brands/stanley.png"
       },
       {
         "id": "brand-6",
         "name": "3M",
-        "logo": "https://placehold.co/150x60/ffffff/1a1a1a?text=3M"
+        "logo": "/assets/images/brands/3m.png"
       },
       {
         "id": "brand-7",
         "name": "Dulux",
-        "logo": "https://placehold.co/150x60/ffffff/1a1a1a?text=Dulux"
+        "logo": "/assets/images/brands/dulux.png"
       },
       {
         "id": "brand-8",
         "name": "Black & Decker",
-        "logo": "https://placehold.co/150x60/ffffff/1a1a1a?text=Black+%26+Decker"
+        "logo": "/assets/images/brands/b&d.png"
+      },
+      {
+        "id": "brand-9",
+        "name": "Ridgid",
+        "logo": "/assets/images/brands/ridgid.png"
+      },
+      {
+        "id": "brand-10",
+        "name": "Craftsman",
+        "logo": "/assets/images/brands/craftsman.png"
+      },
+      {
+        "id": "brand-11",
+        "name": "Husky",
+        "logo": "/assets/images/brands/husky.jpg"
+      },
+      {
+        "id": "brand-12",
+        "name": "Irwin",
+        "logo": "/assets/images/brands/irwin.png"
       }
     ]
   },
   "testimonials": {
     "sectionLabel": "Testimonials",
     "sectionNumber": "05",
-    "headline": "What Our Customers Say",
+    "headline": "Words of praise from others about our presence.",
+    "badge": "Rated 4.8/5 by over 50,000 customers",
     "overallRating": "4.8",
     "ratingCategories": [
       {
@@ -679,8 +1060,8 @@
         "name": "Mike Johnson",
         "role": "Professional Contractor",
         "rating": "5.0",
-        "quote": "BuildRight has been my go-to supplier for 15 years. Their product quality is unmatched and the staff really knows their stuff. Highly recommend!",
-        "avatar": "https://placehold.co/80x80/f89108/ffffff?text=MJ",
+        "quote": "Exceeded our expectations with their extensive inventory that brought our renovation project to life - a truly remarkable hardware supplier.",
+        "avatar": "/assets/images/avatar/1.jpg",
         "date": "Jan 2026"
       },
       {
@@ -688,17 +1069,17 @@
         "name": "Sarah Chen",
         "role": "DIY Enthusiast",
         "rating": "5.0",
-        "quote": "As a first-time homeowner, I was overwhelmed with my renovation project. The team at BuildRight walked me through everything I needed. Amazing service!",
-        "avatar": "https://placehold.co/80x80/db6b04/ffffff?text=SC",
+        "quote": "Their ability to source exactly what we needed for every project is unparalleled - an invaluable partner for any renovation.",
+        "avatar": "/assets/images/avatar/2.jpg",
         "date": "Dec 2025"
       },
       {
         "id": "test-3",
         "name": "Robert Williams",
         "role": "Electrician",
-        "rating": "4.5",
-        "quote": "Great selection of electrical supplies at competitive prices. Same-day delivery has saved me on multiple urgent jobs. Will keep coming back!",
-        "avatar": "https://placehold.co/80x80/b64907/ffffff?text=RW",
+        "rating": "5.0",
+        "quote": "Creative solutions from experts who listen, understand, and deliver quality products - a store that truly understands our needs.",
+        "avatar": "/assets/images/avatar/3.jpg",
         "date": "Nov 2025"
       },
       {
@@ -707,7 +1088,7 @@
         "role": "Interior Designer",
         "rating": "5.0",
         "quote": "The paint selection here is incredible. They helped me find the perfect finishes for my client's project. Professional service every time.",
-        "avatar": "https://placehold.co/80x80/94380c/ffffff?text=ED",
+        "avatar": "/assets/images/avatar/4.jpg",
         "date": "Oct 2025"
       },
       {
@@ -715,18 +1096,36 @@
         "name": "James Wilson",
         "role": "Plumber",
         "rating": "5.0",
-        "quote": "Been buying plumbing supplies here for 20 years. They stock everything I need and their prices can't be beat. True professionals!",
-        "avatar": "https://placehold.co/80x80/792f0e/ffffff?text=JW",
+        "quote": "A refreshing and reliable hardware supplier that consistently delivers exceptional results - highly recommended for any project.",
+        "avatar": "/assets/images/avatar/5.jpg",
         "date": "Sep 2025"
       },
       {
         "id": "test-6",
         "name": "Lisa Martinez",
         "role": "Home Renovator",
-        "rating": "4.5",
-        "quote": "The staff helped me plan my entire kitchen renovation. From cabinets to fixtures, they had everything and gave expert advice throughout.",
-        "avatar": "https://placehold.co/80x80/461602/ffffff?text=LM",
+        "rating": "5.0",
+        "quote": "Their team's expertise and strategic approach resulted in remarkable outcomes for our home renovation - a reliable partner.",
+        "avatar": "/assets/images/avatar/1.jpg",
         "date": "Aug 2025"
+      },
+      {
+        "id": "test-7",
+        "name": "David Park",
+        "role": "Construction Manager",
+        "rating": "5.0",
+        "quote": "From concept to completion, their product range knows no bounds - a game-changer for our construction business success.",
+        "avatar": "/assets/images/avatar/2.jpg",
+        "date": "Jul 2025"
+      },
+      {
+        "id": "test-8",
+        "name": "Jennifer Adams",
+        "role": "Property Developer",
+        "rating": "5.0",
+        "quote": "A refreshing approach to hardware supply that combines quality products with exceptional customer service. Highly recommended!",
+        "avatar": "/assets/images/avatar/3.jpg",
+        "date": "Jun 2025"
       }
     ]
   },
@@ -779,25 +1178,49 @@
   },
   "footer": {
     "brand": {
-      "name": "BuildRight",
+      "name": "Elite",
       "tagline": "Hardware"
     },
-    "headline": "Build Better\nWith BuildRight",
+    "headline": "Build Better\nWith Elite",
+    "taglineSmall": "Uncover the potential of Elite at",
     "description": "Your trusted source for quality hardware, tools, and expert advice since 1985.",
     "cta": {
-      "label": "Visit Store",
+      "label": "Get Started",
       "href": "#hero"
     },
     "contact": {
-      "email": "info@buildright.com",
+      "email": "info@Elite.com",
       "phone": "+1 (555) 123-4567",
       "address": "123 Hardware Lane, Tool City, TC 12345"
+    },
+    "office": {
+      "label": "Main Office",
+      "lines": [
+        "123 Hardware Lane",
+        "Tool City, TC",
+        "12345"
+      ]
     },
     "hours": {
       "weekdays": "Mon-Fri: 7 AM - 7 PM",
       "saturday": "Sat: 8 AM - 6 PM",
       "sunday": "Sun: 9 AM - 5 PM"
     },
+    "location": "Tool City, TC",
+    "quickLinks": [
+      {
+        "name": "Products",
+        "href": "#categories"
+      },
+      {
+        "name": "Pricing",
+        "href": "#offers"
+      },
+      {
+        "name": "Contact Us",
+        "href": "#faq"
+      }
+    ],
     "linkGroups": [
       {
         "title": "Shop",
@@ -895,6 +1318,6 @@
         "href": "/terms"
       }
     ],
-    "copyright": "© 2026 BuildRight Hardware. All rights reserved."
+    "copyright": "© 2026 Elite Hardware. All rights reserved."
   }
 }
