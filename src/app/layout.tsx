@@ -1,7 +1,10 @@
 import type { Metadata } from "next";
 import { DM_Sans } from "next/font/google";
+import "lenis/dist/lenis.css";
 import "./globals.css";
 import { data } from "@/data";
+import FloatingBadge from "@/components/FloatingBadge";
+import { LenisProvider } from "@/components/providers/lenis-provider";
 
 const dmSans = DM_Sans({
   variable: "--font-dm-sans",
@@ -34,7 +37,10 @@ export default function RootLayout({
           "--font-body": "var(--font-dm-sans)",
         } as React.CSSProperties}
       >
-        {children}
+        <LenisProvider>
+          {children}
+          <FloatingBadge />
+        </LenisProvider>
       </body>
     </html>
   );
