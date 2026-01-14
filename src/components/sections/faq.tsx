@@ -102,29 +102,7 @@ export function FAQ() {
 
   return (
     <section id="faq" className="py-20 md:py-28 lg:py-32 bg-white">
-      <div className="px-4 lg:px-10">
-        {/* Section Header */}
-        <div className="flex items-start justify-between mb-8 md:mb-12">
-          <motion.span
-            initial={{ opacity: 0, x: -20 }}
-            whileInView={{ opacity: 1, x: 0 }}
-            viewport={{ once: true }}
-            transition={{ duration: 0.5 }}
-            className="text-sm text-muted-foreground"
-          >
-            {faq.sectionLabel}
-          </motion.span>
-          <motion.span
-            initial={{ opacity: 0, x: 20 }}
-            whileInView={{ opacity: 1, x: 0 }}
-            viewport={{ once: true }}
-            transition={{ duration: 0.5 }}
-            className="text-sm text-muted-foreground font-mono"
-          >
-            ({faq.sectionNumber})
-          </motion.span>
-        </div>
-
+      <div className="px-2 max-w-7xl mx-auto">
         {/* Two Column Layout */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16">
           {/* Left Column - Header Content */}
@@ -134,7 +112,7 @@ export function FAQ() {
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true, margin: "-100px" }}
               transition={{ duration: 0.7, ease: [0.25, 0.46, 0.45, 0.94] }}
-              className="text-[clamp(2rem,5vw,3.5rem)] text-primary-700 font-medium tracking-tighter leading-[1.15] mb-5"
+              className="text-[clamp(2rem,5vw,3.5rem)] text-primary-500 font-medium tracking-tighter leading-[1.15] mb-5"
             >
               {faq.headline}
             </motion.h2>

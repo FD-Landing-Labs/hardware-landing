@@ -48,7 +48,7 @@ export function About() {
 
   return (
     <section id="about" className="py-16 md:py-20 lg:py-24 bg-[#f8f8f8]">
-      <div className="container max-w-6xl mx-auto px-4 md:px-6">
+      <div className="container max-w-7xl mx-auto px-2">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16">
           {/* Left Column */}
           <motion.div
@@ -142,15 +142,15 @@ export function About() {
             {/* Stats Grid */}
             <motion.div
               variants={containerVariants}
-              className="grid grid-cols-3 gap-2 mt-auto pt-12 lg:pt-16"
+              className="grid grid-cols-1 md:grid-cols-3 gap-2 mt-auto pt-12 lg:pt-16"
             >
               {stats.map((stat, index) => (
                 <motion.div
                   key={index}
                   variants={statVariants}
-                  className="text-center lg:text-left bg-white rounded-lg p-4 shadow-sm min-h-64 flex flex-col justify-between"
+                  className="text-center lg:text-left bg-white rounded-lg p-4 shadow-sm min-h-40 md:min-h-64 flex flex-col justify-center md:justify-between"
                 >
-                  <p className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-tighter text-primary-400">
+                  <p className="text-5xl lg:text-5xl font-bold tracking-tighter text-primary-400">
                     {stat.value}
                   </p>
                   <p className="text-base text-muted-foreground leading-snug tracking-tight">

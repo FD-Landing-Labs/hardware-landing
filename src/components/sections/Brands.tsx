@@ -35,7 +35,7 @@ export function Brands() {
 
   return (
     <section id="brands" className="py-16 md:py-20 lg:py-24 bg-[#f5f5f7]">
-      <div className="container max-w-7xl mx-auto px-4 md:px-6">
+      <div className="container max-w-7xl mx-auto px-2">
         {/* Header Section */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-16 mb-12 md:mb-16">
           {/* Left - Main Headline */}
@@ -45,7 +45,7 @@ export function Brands() {
             viewport={{ once: true }}
             transition={{ duration: 0.5, ease: easeOut }}
           >
-            <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold capitalize tracking-tighter text-foreground leading-tight">
+            <h2 className="text-3xl md:text-4xl lg:text-5xl font-semibold capitalize tracking-tighter text-primary-500 leading-tight">
               {headline}
             </h2>
           </motion.div>

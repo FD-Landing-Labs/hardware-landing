@@ -62,7 +62,7 @@ export function Hero() {
   ];
 
   return (
-    <section id="hero" className="bg-background m-2 max-w-7xl mx-auto">
+    <section id="hero" className="bg-background m-2 max-w-7xl mx-auto px-2 md:px-0">
       {/* Main Hero Section */}
       <motion.div
         variants={containerVariants}

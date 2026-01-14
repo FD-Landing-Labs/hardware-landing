@@ -879,7 +879,7 @@
         "id": "offer-1",
         "title": "Buy 2 Get 1 Free",
         "subtitle": "On All Paint",
-        "image": "/assets/images/paint3.jpg",
+        "image": "/assets/images/paint.jpg",
         "href": "#"
       },
       {
@@ -916,7 +916,7 @@
     "sectionNumber": "04",
     "headline": "Why us",
     "description": "We source and supply quality hardware products that not only meet professional standards but also deliver lasting value for every project you undertake.",
-    "image": "https://placehold.co/600x500/1a1a1a/f89108?text=About+Us",
+    "image": "/assets/images/hero.jpg",
     "highlights": [
       "Family-owned business with 40 years of experience",
       "Expert staff ready to help with any project",

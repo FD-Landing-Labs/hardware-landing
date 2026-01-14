@@ -113,10 +113,10 @@ export function FeaturedProducts() {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
           transition={{ duration: 0.5, ease: easeOut }}
-          className="flex items-center justify-between mb-16"
+          className="flex items-center justify-between mb-4 md:mb-16"
         >
           <div>
-            <h2 className="text-lg md:text-5xl font-semibold text-foreground tracking-tighter mt-1">
+            <h2 className="text-[clamp(2rem,5vw,3.5rem)] font-semibold text-foreground tracking-tighter mt-1">
               {featuredProducts.headline}
             </h2>
           </div>

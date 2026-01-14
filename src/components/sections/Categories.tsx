@@ -54,9 +54,9 @@ export function Categories() {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
           transition={{ duration: 0.5, ease: easeOut }}
-          className="flex items-baseline gap-3 mb-16 max-w-2xl "
+          className="flex items-baseline gap-3 mb-4 md:mb-16 max-w-2xl "
         >
-          <h2 className="text-2xl md:text-5xl font-semibold text-foreground tracking-tighter">
+          <h2 className="text-[clamp(2rem,5vw,3.5rem)] font-semibold text-foreground tracking-tighter">
             {categories.headline}
           </h2>
           <span className="text-lg md:text-xl font-light text-muted-foreground/40">

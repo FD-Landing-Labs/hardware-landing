@@ -72,7 +72,7 @@ export function Testimonials() {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
           transition={{ duration: 0.5, ease: easeOut }}
-          className="flex flex-col items-center text-center"
+          className="flex flex-col items-start md:items-center md:text-center"
         >
           {/* Badge */}
           <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary-400 text-white text-xs font-medium mb-6">
@@ -81,7 +81,7 @@ export function Testimonials() {
           </div>
 
           {/* Headline */}
-          <h2 className="text-2xl md:text-3xl lg:text-5xl font-bold tracking-tighter capitalize text-foreground max-w-2xl leading-tight">
+          <h2 className="text-[clamp(2rem,5vw,3.5rem)] font-bold tracking-tighter capitalize text-foreground max-w-2xl leading-tight">
             {headline}
           </h2>
         </motion.div>
