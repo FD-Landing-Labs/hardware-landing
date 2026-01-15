@@ -27,7 +27,7 @@ function TestimonialCard({ testimonial }: { testimonial: TestimonialItem }) {
       <Quote className="w-8 h-8 text-primary-400 mb-4" />
 
       {/* Quote Text */}
-      <p className="text-sm md:text-base text-muted-foreground leading-relaxed mb-6 min-h-[80px]">
+      <p className="text-sm md:text-lg tracking-tight text-muted-foreground leading-relaxed mb-6 min-h-[80px]">
         {testimonial.quote}
       </p>
 
@@ -43,10 +43,10 @@ function TestimonialCard({ testimonial }: { testimonial: TestimonialItem }) {
           />
         </div>
         <div>
-          <p className="text-sm font-semibold text-foreground">
+          <p className="text-lg tracking-tighter font-semibold text-foreground">
             {testimonial.name}
           </p>
-          <p className="text-xs text-muted-foreground">{testimonial.role}</p>
+          <p className="text-xs text-muted-foreground uppercase tracking-widest">{testimonial.role}</p>
         </div>
       </div>
     </div>
